@@ -5,6 +5,4 @@ infrastructures. In short, an API defines how a client can load data from a serv
 specify exactly what data it needs from an API. Instead of multiple endpoints that return fixed data structures, a GraphQL server only exposes a single endpoint 
 and responds with precisely the data a client asked for.
 
-## hello world delete from vs code
-
 Credits: https://www.howtographql.com/react-apollo/
